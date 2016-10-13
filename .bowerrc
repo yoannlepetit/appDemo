@@ -1,3 +1,5 @@
 {
-  "directory": "www/lib"
+	"directory": "www/lib",
+	"proxy":"http://squid.soltim:3128",
+	"https-proxy":"http://squid.soltim:3128"
 }
